@@ -24,6 +24,7 @@ shields.io의 static badge에서 style: for-the-badge, logo에 원하는 로고 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-171616?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSC-blue?style=for-the-badge&logo=visualstudiocode"/>
 
 </p>
 
