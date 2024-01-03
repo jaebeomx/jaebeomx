@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+My Tech Stack
 shields.io의 static badge에서 style: for-the-badge, logo에 원하는 로고 영어로, badgeContent는 로고명-색깔 이렇게 해야함
 -->
-## 📚 My Tech Stack
+## 📚 Things I code with
 <p>
   <img src="https://img.shields.io/badge/React-222222?style=for-the-badge&logo=React&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white"/>
