@@ -24,7 +24,7 @@ shields.io의 static badge에서 style: for-the-badge, logo에 원하는 로고 
   <img src="https://img.shields.io/badge/recoil-white?style=for-the-badge&logo=recoil"/>
   <img src="https://img.shields.io/badge/styledcomponents-%23E48D85?style=for-the-badge&logo=styledcomponents&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=tailwind%20css"/>
-  <img src="https://img.shields.io/badge/redux-white?style=for-the-badge&logo=redux&logoColor=purple"/>
+  <!-- <img src="https://img.shields.io/badge/redux-white?style=for-the-badge&logo=redux&logoColor=purple"/> -->
   <img src="https://img.shields.io/badge/axios-purple?style=for-the-badge&logo=axios&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-007ACC?style=for-the-badge&logo=CSS3&logoColor=white"/>
