@@ -1,8 +1,6 @@
 ### Hi there Nice to meet you! 👋
 
 <!--
-**jaebeomx/jaebeomx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-My Tech Stack
 shields.io의 static badge에서 style: for-the-badge, logo에 원하는 로고 영어로, badgeContent는 로고명-색깔 이렇게 해야함
 -->
 ## 📚 Things I code with
