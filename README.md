@@ -1,4 +1,4 @@
-### Hi there Nice to meet you! 👋
+### Hi there Nice to meet you! 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaebeomx&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 shields.io의 static badge에서 style: for-the-badge, logo에 원하는 로고 영어로, badgeContent는 로고명-색깔 이렇게 해야함
