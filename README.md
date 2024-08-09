@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=110&section=header&text=Hi%20%20I'm%20%20jaebeomx&fontSize=60)
-<h2 align="center">
-Hi there Nice to meet you! 👋 
-</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=b6dcb6&fontColor=363636&height=110&section=header&text=Hi%20%20I'm%20%20jaebeomx&fontSize=60">
+</div>
+<br>
 
 <div align="center">
   <table>
