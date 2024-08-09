@@ -1,9 +1,28 @@
-### Hi there Nice to meet you! 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaebeomx&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<h2 align="center">
+Hi there Nice to meet you! 👋 
+</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>Top Languages</strong></td>
+      <td align="center"><strong>GitHub Stats</strong></td>
+    </tr>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaebeomx&layout=compact&theme=tokyonight"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=jaebeomx&show_icons=true&count_private=true&theme=tokyonight"></td>
+    </tr>
+  </table>
+</div>
 
 <!--
 shields.io의 static badge에서 style: for-the-badge, logo에 원하는 로고 영어로, badgeContent는 로고명-색깔 이렇게 해야함
 -->
-## 📚 Things I code with
+---
+
+<h2>
+  📚 Things I code with
+</h2>
 <p>
 <!--   <img src="https://img.shields.io/badge/React-222222?style=for-the-badge&logo=React&logoColor=61DAFB"/> -->
 
