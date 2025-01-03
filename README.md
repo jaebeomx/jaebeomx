@@ -33,21 +33,5 @@
   <h2>
     📚 Things I code with
   </h2>
-  <p>
-  <img src="https://img.shields.io/badge/React-222222?style=for-the-badge&logo=React&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/recoil-white?style=for-the-badge&logo=recoil"/>
-  <img src="https://img.shields.io/badge/styledcomponents-%23E48D85?style=for-the-badge&logo=styledcomponents&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=tailwind%20css"/>
-  <!-- <img src="https:/img.shields.io/badge/redux-white?style=for-the-badge&logo=redux&logoColor=purple"/> -->
-  <img src="https://img.shields.io/badge/axios-purple?style=for-the-badge&logo=axios&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-007ACC?style=for-the-badge&logo=CSS3&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=blue"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-171616?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSC-blue?style=for-the-badge&logo=visualstudiocode"/>
-
-</p>
-
+<!--     <img src="https://skillicons.dev/icons?i=react,styledcomponents,emotion,tailwind,html,css,js,typescript,git,github,gitlab,vscode&perline=5" /> -->
+<img src="https://skillicons.dev/icons?i=react,styledcomponents,emotion,tailwind,html,css,js,typescript,git,github,gitlab,vscode" />
