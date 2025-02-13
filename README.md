@@ -34,4 +34,4 @@
     📚 Things I code with
   </h2>
 <!--     <img src="https://skillicons.dev/icons?i=react,styledcomponents,emotion,tailwind,html,css,js,typescript,git,github,gitlab,vscode&perline=5" /> -->
-<img src="https://skillicons.dev/icons?i=react,styledcomponents,emotion,tailwind,html,css,js,typescript,git,github,gitlab,vscode,vite,yarn," />
+<img src="https://skillicons.dev/icons?i=react,next,styledcomponents,emotion,tailwind,html,css,js,typescript,git,github,gitlab,vscode,vite,yarn" />
